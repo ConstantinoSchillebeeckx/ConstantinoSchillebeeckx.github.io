@@ -11,7 +11,22 @@ a {
     color: #1abc9c;
 }
 
+footer > a {
+    color: Tomato;
+}
+
 h1, h2:first-child {
     font-weight: 400;
 }
 
+h2:first-child {
+    font-size: 21px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.label-warning {
+    background-color: Tomato;
+}
