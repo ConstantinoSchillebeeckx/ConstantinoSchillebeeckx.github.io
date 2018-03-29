@@ -27,6 +27,11 @@ title: Hej!
 <span class="label label-default">Finished</span> 
 - An interactive financial calculator that shows retirement growth over time.
 
+## [simple_stock](https://constantinoschillebeeckx.github.io/simple_stock/)
+
+<span class="label label-warning">On-going</span>
+- A bare-bones stock chart that leverages [NVD3](https://nvd3-community.github.io/nvd3/) plots and the [IEX](https://iextrading.com/developer/docs/#chart) stock API.
+
 ## [oolong](https://github.com/ConstantinoSchillebeeckx/oolong)
 
 <span class="label label-warning">In progress</span>
